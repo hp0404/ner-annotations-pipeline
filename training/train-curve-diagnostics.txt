@@ -1,0 +1,16 @@
+[1m
+========================= Generating Prodigy config =========================[0m
+[38;5;4mℹ Auto-generating config with spaCy[0m
+[38;5;2m✔ Generated training config[0m
+[1m
+=========================== Train curve diagnostic ===========================[0m
+Training 4 times with 25%, 50%, 75%, 100% of the data
+
+%      Score    textcat_multilabel
+----   ------   ------
+  0%   0.64     0.64  
+ 25%   0.66 ▲   0.66 ▲
+ 50%   0.76 ▲   0.76 ▲
+ 75%   0.78 ▲   0.78 ▲
+100%   0.80 ▲   0.80 ▲
+
