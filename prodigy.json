@@ -1,0 +1,12 @@
+{
+  "db": "postgresql",
+  "db_settings": {
+    "postgresql": {
+        "user": "postgres",
+        "password": "annotator-htu_2021!",
+        "host": "db.viqwrfpxiinggawxrlta.supabase.co",
+        "port": 6543,
+        "database": "postgres"
+      }
+  }
+}
