@@ -25,7 +25,7 @@ preshed==3.0.5
 prodigy==1.11.4
 psycopg2-binary==2.9.1
 pydantic==1.8.2
-PyJWT==2.2.0
+PyJWT==2.4.0
 pyparsing==2.4.7
 requests==2.26.0
 smart-open==5.2.1
